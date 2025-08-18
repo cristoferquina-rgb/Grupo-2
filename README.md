@@ -38,9 +38,4 @@ El gas capturado se aprovecha en:
 - ⚡ Se mejora la **eficiencia energética** (ODS 7)  
 - 🩺 Se reduce el **riesgo para la salud y explosiones** (ODS 3)  
 
----
 
-## ✅ En resumen
-El **monitoreo de fugas de gases** no solo previene accidentes,  
-sino que permite **recuperar el gas perdido y transformarlo en energía limpia**,  
-cerrando un ciclo **seguro, eficiente y sostenible**.  
