@@ -7,7 +7,7 @@ Idania Parhuay Meza: Coordinador general (idania.parhuay@upch.pe)
 Eber Pauccara: Encargado de diseño y manufactura digital (eber.pauccara@upch.pe)
 
 
-Sebastián Calderón: Diseño de prototipo y supervisor de github ()
+Sebastián Calderón: Diseño de prototipo y supervisor de github (sebastiaan.calderon@upch.pe)
 
 
 Cristofer Quina :Encargado de prototipo electrónico (cristofer.quina@upch.pe)
