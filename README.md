@@ -3,7 +3,7 @@
 
 Idania Parhuay Meza: Coordinador general (idania.parhuay@upch.pe)
 
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b80a23aa-58e7-47dd-81fd-aa661d1a2c28" />
 
 
 Eber Pauccara: Encargado de diseño y manufactura digital (eber.pauccara@upch.pe)
