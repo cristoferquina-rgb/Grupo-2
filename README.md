@@ -1,5 +1,5 @@
 INTEGRANTES DEL GRUPO 2:
-
+Foto grupal:
 
 Idania Parhuay Meza: Coordinador general (idania.parhuay@upch.pe)
 
