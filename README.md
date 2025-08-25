@@ -10,14 +10,15 @@ Eber Pauccara: Encargado de diseño y manufactura digital (eber.pauccara@upch.pe
 Sebastián Calderón: Diseño de prototipo y supervisor de github ()
 
 
-Cristofer Quina :Encargado de prototipo electrónico ()
+Cristofer Quina :Encargado de prototipo electrónico (cristofer.quina@upch.pe)
 
 
 PRESENTACION 
 
 # 🌍 ODS 13: ACCIÓN POR EL CLIMA
 
----
+---<img width="1747" height="1240" alt="image" src="https://github.com/user-attachments/assets/ea50769a-2684-4b27-b9f8-2a9bd15487c1" />
+
 
 ## Introducción
 
