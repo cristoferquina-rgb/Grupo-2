@@ -7,7 +7,7 @@ Idania Parhuay Meza: Coordinador general (idania.parhuay@upch.pe)
 Eber Pauccara: Encargado de diseño y manufactura digital (eber.pauccara@upch.pe)
 
 
-Sebastián Calderón: Diseño de prototipo y supervisor de github (sebastiaan.calderon@upch.pe)
+Sebastián Calderón: Diseño de prototipo y supervisor de github (sebastian.calderon.junes@upch.pe)
 
 
 Cristofer Quina :Encargado de prototipo electrónico (cristofer.quina@upch.pe)
@@ -17,8 +17,9 @@ PRESENTACION
 
 # 🌍 ODS 13: ACCIÓN POR EL CLIMA
 
----<img width="1747" height="1240" alt="image" src="https://github.com/user-attachments/assets/ea50769a-2684-4b27-b9f8-2a9bd15487c1" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/bc4f4114-c02e-4147-88de-5ce52abdca13" />
 
+---
 
 ## Introducción
 
@@ -33,6 +34,8 @@ Uno de los principales responsables de este problema son los **gases de efecto i
 
 Aunque a veces pase desapercibido, pequeñas fugas de gas en nuestros hogares también contribuyen a este problema global.
 
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1ddf4ef3-2a3b-499f-b29a-ec3fa4fe84d2" />
+
 ---
 
 ## 🇵🇪 Situación en el Perú
@@ -45,6 +48,8 @@ Esto significa que:
 - Facilitan la vida, pero **traen riesgos importantes**: explosiones o incendios.  
 
 Ejemplo: En **Villa El Salvador (2020)**, un accidente por fuga de gas dejó decenas de víctimas. Además del peligro humano, también hubo un impacto ambiental debido a la liberación de **metano**.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a73bf62b-7037-4e16-8c3a-852a1570147a" />
 
 ---
 
@@ -71,5 +76,7 @@ Este proyecto se vincula directamente con la **ODS 13: Acción por el Clima**, y
 ---
 
 Este proyecto se vincula directamente con la ODS 13: Acción por el Clima, ya que ayuda a reducir la liberación de gases contaminantes, pero también se relaciona con la ODS 3: Salud y Bienestar, porque busca proteger la vida de las personas previniendo accidentes en los hogares y comunidades.
+
+
 
 
