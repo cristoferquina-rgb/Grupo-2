@@ -4,13 +4,20 @@
 Idania Parhuay Meza: Coordinador general (idania.parhuay@upch.pe)
 
 
+
+
 Eber Pauccara: Encargado de diseño y manufactura digital (eber.pauccara@upch.pe)
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4dcac393-f906-4e7a-ae3c-b5c699ce6ed2" />
 
 
 Sebastián Calderón: Diseño de prototipo y supervisor de github (sebastian.calderon.junes@upch.pe)
 
+<img width="1080" height="1052" alt="image" src="https://github.com/user-attachments/assets/7b9d1414-1e5d-4bdc-a8f5-bdd2beb63d2c" />
 
 Cristofer Quina :Encargado de prototipo electrónico (cristofer.quina@upch.pe)
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/114daca6-934d-404e-8a1e-c031229eef30" />
 
 
 # PRESENTACION
