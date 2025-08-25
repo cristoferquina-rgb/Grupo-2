@@ -13,7 +13,10 @@ Sebastián Calderón: Diseño de prototipo y supervisor de github (sebastian.cal
 Cristofer Quina :Encargado de prototipo electrónico (cristofer.quina@upch.pe)
 
 
-PRESENTACION 
+# PRESENTACION
+saludos coordiales estimado docente a continuacion exponemos nuestro proyecto.
+
+---
 
 # 🌍 ODS 13: ACCIÓN POR EL CLIMA
 
