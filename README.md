@@ -1,4 +1,4 @@
-INTEGRANTES DEL GRUPO 2:
+# INTEGRANTES DEL GRUPO 2:
 
 
 Idania Parhuay Meza: Coordinador general (idania.parhuay@upch.pe)
@@ -14,7 +14,8 @@ Cristofer Quina :Encargado de prototipo electrónico (cristofer.quina@upch.pe)
 
 
 # PRESENTACION
-saludos coordiales estimado docente a continuacion exponemos nuestro proyecto.
+
+Saludos coordiales estimado docente a continuacion exponemos nuestro proyecto.
 
 ---
 
